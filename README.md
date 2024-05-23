@@ -13,7 +13,7 @@
 <br>
 
 - 💻 Apasionado estudiante de SENATI en el 5to ciclo, y futuro programador conocido como LitCode.
-- 🦉 Practicante de Digital Buho.
+- 👷 Buscando Chamba.
 - 🌱 Actualmente aprendiendo desarrollo web por cuenta propia.
 - 🔍 Actualmente abierto a oportunidades de prácticas o empleo.
 
